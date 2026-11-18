@@ -1,93 +1,47 @@
 {
-  "version": 1,
-  "ease": "linear",
-  "beginTick": 0,
-  "endTick": 8,
-  "stopTick": 8,
-  "isLoop": false,
-  "returnTick": 0,
-  "nsfw": false,
-  "hold": true,
+  "format_version": "1.12.0",
+  "animation_length": 0.41667,
   "bones": {
     "head": {
-      "0": {
-        "rotation": [
-          -90.0,
-          0.0,
-          0.0
-        ],
-        "position": [
-          0.0,
-          -17.0,
-          -6.0
-        ]
+      "rotation": {
+        "0.0": [-90.0, 0.0, 0.0]
+      },
+      "position": {
+        "0.0": [0.0, -17.0, -6.0]
       }
     },
     "torso": {
-      "0": {
-        "rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "position": [
-          0.0,
-          -8.0,
-          0.0
-        ]
+      "rotation": {
+        "0.0": [112.5, 0.0, 0.0]
       },
-      "8": {
-        "rotation": [
-          112.5,
-          0.0,
-          0.0
-        ]
+      "position": {
+        "0.0": [0.0, -8.0, 0.0]
       }
     },
     "rightArm": {
-      "0": {
-        "rotation": [
-          92.5,
-          0.0,
-          0.0
-        ],
-        "position": [
-          0.0,
-          -11.0,
-          0.0
-        ]
+      "rotation": {
+        "0.0": [92.5, 0.0, 0.0]
+      },
+      "position": {
+        "0.0": [0.0, -11.0, 0.0]
       }
     },
     "leftArm": {
-      "0": {
-        "rotation": [
-          -92.5,
-          0.0,
-          0.0
-        ],
-        "position": [
-          0.0,
-          -11.0,
-          0.0
-        ]
+      "rotation": {
+        "0.0": [-92.5, 0.0, 0.0]
+      },
+      "position": {
+        "0.0": [0.0, -11.0, 0.0]
       }
     },
     "rightLeg": {
-      "0": {
-        "rotation": [
-          -92.5,
-          0.0,
-          0.0
-        ]
+      "rotation": {
+        "0.0": [-92.5, 0.0, 0.0]
       }
     },
     "leftLeg": {
-      "0": {
-        "rotation": [
-          92.5,
-          0.0,
-          0.0
-        ]
+      "rotation": {
+        "0.0": [92.5, 0.0, 0.0]
       }
     }
   }
